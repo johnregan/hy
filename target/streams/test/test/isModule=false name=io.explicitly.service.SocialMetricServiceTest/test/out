@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSocialMetricServiceTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Social Metric Service[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  When called to fetch count for non connected users[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should have size 0 if all users are first degree connected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should have size 0 if all users are second degree connected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should have size 0 if all users are first and second degree connected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should have size 5 if all users are not connected[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return aggregated counts for a user[0m[0m
