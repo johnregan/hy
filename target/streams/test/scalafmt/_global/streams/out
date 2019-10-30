@@ -1,8 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mChange report:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Checked: /home/lo/hy/src/test/scala/io/explicitly/service/ConnectionCounterTest.scala, /home/lo/hy/src/test/scala/io/explicitly/service/SocialMetricServiceTest.scala, /home/lo/hy/src/test/scala/io/explicitly/model/ConnectionTest.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Modified: /home/lo/hy/src/test/scala/io/explicitly/service/ConnectionCounterTest.scala, /home/lo/hy/src/test/scala/io/explicitly/service/SocialMetricServiceTest.scala, /home/lo/hy/src/test/scala/io/explicitly/model/ConnectionTest.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Unmodified: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	Added: /home/lo/hy/src/test/scala/io/explicitly/service/ConnectionCounterTest.scala, /home/lo/hy/src/test/scala/io/explicitly/service/SocialMetricServiceTest.scala, /home/lo/hy/src/test/scala/io/explicitly/model/ConnectionTest.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Removed: [0m
-[0m[[0m[0minfo[0m] [0m[0mFormatting 3 Scala sources...[0m
-[0m[[0m[0minfo[0m] [0m[0mReformatted 3 Scala sources[0m
