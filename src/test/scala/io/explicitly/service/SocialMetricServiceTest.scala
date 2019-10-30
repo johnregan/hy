@@ -16,7 +16,7 @@ import org.scalatest.{ FreeSpec, Matchers }
 
 class SocialMetricServiceTest extends FreeSpec with Matchers {
 
-  def sut(firstDegreeConnections: Int, secondDegreeConnections: Int): SocialMetricService = {
+  private def sut(firstDegreeConnections: Int, secondDegreeConnections: Int): SocialMetricService = {
     val tpa = new ThirdPartyApiAlgebra[IO] {
       override def retrieveRelationships(sn: SocialNetwork): IO[ThirdPartyResponse] =
         IO(

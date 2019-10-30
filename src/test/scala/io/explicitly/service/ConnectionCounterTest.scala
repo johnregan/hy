@@ -35,7 +35,6 @@ class ConnectionCounterTest extends FreeSpec with Matchers {
       }
 
       "should return the correct first and second degree counts for a user with minimal data" in {
-
         ConnectionCounter.count(List.empty, Set.empty, Person("JJ")) shouldEqual ConnectedCount(0, 0)
       }
 
